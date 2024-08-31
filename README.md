@@ -1,6 +1,4 @@
-# APT-Casino
-
-The inspiration behind APT-Casino stems from the realization that many newcomers to gambling often lack the knowledge and skills necessary to gamble responsibly. Traditional platforms offer little in the way of education, leading to uninformed decisions, risky behavior, and financial losses. By integrating educational content with practical gambling experiences, APT-Casino seeks to fill this gap and provide a comprehensive learning platform that educates users while they engage in gambling activities.
+The inspiration behind APT-Casino stems from the realization that many newcomers to gambling often lack the knowledge and skills necessary to gamble responsibly. Traditional platforms offer little in the way of education, leading to uninformed decisions, risky behavior, and financial losses. By integrating educational content with praactical gambling experiences, APT-Casino seeks to fill this gap and provide a comprehensive learning platform that educates users while they engage in gambling activities.
 
 ## Problem
 The gambling industry is often criticized for promoting addictive behavior and financial loss, especially among those who lack a fundamental understanding of the games they play. Problems include:
@@ -19,7 +17,7 @@ APT-Casino addresses these issues by providing an educational platform on EduCha
 
 ## Key Features
 - **Educational Modules:** Comprehensive modules covering the basics of gambling, including game rules, strategies, and probability.
-- **Simulated Environment:** A risk-free space where users can practice their gambling skills with virtual currency before transitioning to real assets.
+- **Simulated Environment:** A risk-free space where users can practice their gambling skills with in game test currency (APTC) before transitioning to real assets.
 - **Skill Assessment:** Regular quizzes and assessments to gauge user understanding and readiness for real gambling.
 - **Responsible Gambling Tools:** Features that promote responsible gambling, such as spending limits, time trackers, and self-exclusion options.
 - **Community Engagement:** Forums, social features, and peer support systems to foster a community of responsible gamblers.
